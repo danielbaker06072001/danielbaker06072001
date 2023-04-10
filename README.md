@@ -5,8 +5,8 @@ Web Developer and Undergraduate Computer Science
 ------------------------------------------------
 
 * 🌍  I'm based in Waterloo, Canada
-* 🖥️  See my portfolio at [MyPortfolio](http://duc-nguyen.info)
-* ✉️  You can contact me at [danielbaker06072001@gmail.com](mailto:danielbaker06072001@gmail.com)
+* 🖥️  See my portfolio at [MyPortfolio](https://web2-ed9f7d.webflow.io/)
+* ✉️  You can contact me at [duc.nguyen67201@gmail.com](mailto:duc.nguyen67201@gmail.com)
 * 🧠  I'm learning .NET, ReactJs, Kotlin
 * 🤝  I'm open to collaborating on every project
 
