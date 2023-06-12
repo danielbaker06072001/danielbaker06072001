@@ -9,6 +9,7 @@ Web Developer and Undergraduate Computer Science
 * ✉️  You can contact me at [duc.nguyen67201@gmail.com](mailto:duc.nguyen67201@gmail.com)
 * 🧠  I'm learning .NET, ReactJs, Kotlin
 * 🤝  I'm open to collaborating on every project
+* 👨‍💻 I'm currently working on this project [https://platinum-zinnia-d3a.notion.site/Police-Crime-Simulator-affb8156d7ea46b7807ed4240925ebf4]
 
 ### Skills
 
