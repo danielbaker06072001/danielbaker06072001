@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Undergraduate Computer Science
 ------------------------------------------------
 
-* 🌍  I'm based in Waterloo, Canada
-* 🖥️  See my portfolio at [MyPortfolio](https://web2-ed9f7d.webflow.io/)
+* 🌍  I'm based in Toronto, Canada
+
 * ✉️  You can contact me at [duc.nguyen67201@gmail.com](mailto:duc.nguyen67201@gmail.com)
-* 🧠  I'm learning .NET, ReactJs, Kotlin
+* 🧠  I'm learning Devops, Backend 
 * 🤝  I'm open to collaborating on every project
-* 👨‍💻 I'm currently working on this project [https://platinum-zinnia-d3a.notion.site/Police-Crime-Simulator-affb8156d7ea46b7807ed4240925ebf4]
+
 
 ### Skills
 
